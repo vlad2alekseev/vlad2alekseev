@@ -1,0 +1,25 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+
+body{
+display: flex;
+flex-direction: column;
+align-items: center;
+height: 100vh;
+}
+
+h1{
+    font: bold 10vh 'Roboto', sans-serif;
+    margin-top: 20vh;
+}
+
+h2{
+    font: bold 7vh 'Roboto', sans-serif;
+}
+
+p{
+    font: 5vh 'Roboto', sans-serif;
+    max-width: 90vw;
+    margin-top: 5vh;
+}
